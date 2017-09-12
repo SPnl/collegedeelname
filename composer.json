@@ -1,0 +1,13 @@
+{
+    "name": "spnl/nl.sp.collegedeelname",
+    "description": "lijst met raadsleden en wethouders uit afdelingen waar we in het college zitten",
+    "type": "civicrm-module",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Alain Benbassat",
+            "email": "alain@businessandcode.eu"
+        }
+    ],
+    "require": {}
+}
